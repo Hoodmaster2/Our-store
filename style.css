@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(90deg, #ff4d4d, #ff1493, #1e90ff);
+    color: #fff;
+}
+.product-price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #f9c400; /* Yellow color for pricing */
+}
+
+.rounded-image {
+    border-radius: 50%; /* Makes the image circular */
+    width: 100px; /* Adjust the width to your preference */
+    height: 100px; /* Adjust the height to your preference */
+}
